@@ -92,7 +92,7 @@ export default function Experience() {
           transition={{ duration: 0.8 }}
           className="text-4xl md:text-5xl font-bold mb-16"
         >
-          Where I've <span className="text-gradient">made impact</span>
+          Where I&apos;ve <span className="text-gradient">made impact</span>
         </motion.h2>
 
         <div className="relative" ref={containerRef}>

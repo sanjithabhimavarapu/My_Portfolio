@@ -63,7 +63,7 @@ export default function Contact() {
             transition={{ duration: 0.8 }}
             className="text-4xl md:text-6xl font-bold mb-6"
           >
-            Let's <span className="text-gradient">connect</span>
+            Let&apos;s <span className="text-gradient">connect</span>
           </motion.h2>
 
           <motion.p
